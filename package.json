@@ -1,0 +1,26 @@
+{
+  "name": "Eval_13-Dec",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server" : "nodemon src/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shakib40/Eval_13-Dec.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shakib40/Eval_13-Dec/issues"
+  },
+  "homepage": "https://github.com/Shakib40/Eval_13-Dec#readme"
+}
